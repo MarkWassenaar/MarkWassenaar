@@ -47,5 +47,5 @@ Looking forward to creating great projects, connecting with lots of people, and 
  
 
 ### Contacts
-[![LinkedIn](https://www.linkedin.com/in/wassenaar-mark/)
-[![Outlook](mark.wassenaar@live.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassenaar-mark/)
+✉️ (mark.wassenaar@live.nl)
