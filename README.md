@@ -19,9 +19,9 @@ Looking forward to creating great projects, connecting with lots of people, and 
 ### Frontend
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![React Three.js](https://img.shields.io/badge/React_Three.js-000000?style=for-the-badge&logo=react&logoColor=white)](https://threejs.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threejs&logoColor=white)](https://threejs.org/)
-[![Drei](https://img.shields.io/badge/Drei-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pmndrs/drei)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
